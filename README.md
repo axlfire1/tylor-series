@@ -1,3 +1,3 @@
 # tylor-series
 
-This code calculate the tylor-series in the C++ languaje and graphing the results using GNU-Plot
+This code calculate the taylor-series in the C++ language and graphing the results using GNUPlot
